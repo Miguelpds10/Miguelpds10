@@ -2,8 +2,8 @@
 
 - 🔭 Estou em busca do primeiro emprego;
 - 🌱Estou estudando Asp.Net, PHP e MySQL;
-- 👯 Estou querendo colaborar com Desenvolvimento de Software
-- 📫 Email: pintomiguel457@gmail.com
+- 👯 Estou querendo colaborar com Desenvolvimento de Software;
+- 📫 Email: pintomiguel457@gmail.com.
 <div>
   <a href="https://github.com/Miguelpds10">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miguelpds10&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
