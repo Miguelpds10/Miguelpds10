@@ -1,6 +1,5 @@
-## Olá, meu nome é Miguel Pinto 
+## Olá, meu nome é Miguel Silva
 
-- 🔭 Estou em busca do primeiro emprego;
 - 🌱Estou estudando Asp.Net, PHP e MySQL;
 - 👯 Estou querendo colaborar com Desenvolvimento de Software;
 - 📫 Email: pintomiguel457@gmail.com.
