@@ -1,5 +1,5 @@
 ## Olá, meu nome é Miguel Silva👋🏼
-<p>Tenho 17 anos, Sou uma pessoa apaixonada por tecnologia desde criança. Atualmente estou estudando o curso técnico em Desenvolvimento de Sistemas na Etec Prof. Basilides de Godoy, possuo competências em HTML, CSS, JavaScript, C#, Java e buscando mais conhecimentos em MySQL, Asp.Net e PHP.</p>
+<p>Tenho 18 anos, Sou uma pessoa apaixonada por tecnologia desde criança. Atualmente estou estudando o curso técnico em Desenvolvimento de Sistemas na Etec Prof. Basilides de Godoy, possuo competências em HTML, CSS, JavaScript, C#, Java e buscando mais conhecimentos em MySQL, Asp.Net e PHP.</p>
 <div>
   <a href="https://github.com/Miguelpds10">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miguelpds10&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
