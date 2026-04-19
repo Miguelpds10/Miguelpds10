@@ -1,6 +1,6 @@
 # Olá, meu nome é Miguel Silva👋🏼
 <p>Tenho 19 anos. Atualmente estou fazendo a Faculdade de Análise e Desenvolvimento de Sistemas na Fatec Carapicuíba, possuo conhecimento em linguagens e frameworks como HTML, CSS, JavaScript, C#, Java, ASP.NET MVC, Boostrap.</p>
-<p>Hoje estou em transição profissional para a área deTecnologia da Informação com foco em Desenvolvimento de Software Back-End em Java, busco atuar na área como Desenvolvedor Júnior ou Estagiário. </p>
+<p>Hoje estou em transição profissional para a área de Tecnologia da Informação com foco em Desenvolvimento de Software Back-End em Java, busco atuar na área como Desenvolvedor Júnior ou Estagiário. </p>
 <div>
   <a href="https://github.com/Miguelpds10">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miguelpds10&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
