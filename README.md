@@ -21,7 +21,7 @@
   <img align = "center" height = "60" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align = "center" height = "60" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align = "center" height = "60" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align = "center" height = "60" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlserver/sqlserver-original-wordmark.svg" />
+  <img align = "center" height = "60" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlserver/sqlserver-original.svg" />
   <img align = "center" height = "60" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 <div>
