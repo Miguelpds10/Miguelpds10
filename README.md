@@ -3,10 +3,10 @@
 <p>No dia a dia, trabalho ao lado de desenvolvedores seniores em projetos reais: levantamento de requisitos, correção de bugs, testes, documentação técnica e suporte às rotinas da equipe de TI. </p>
 <p>Meu objetivo é crescer da análise para o desenvolvimento back-end.</p>
 <h2>O que eu uso</h2>
-## Back-end: Java · C# / ASP.NET MVC 
-## Bancos de dados: MySQL · PostgreSQL · SQL Server 
-## Front-end: HTML · CSS · JavaScript · Bootstrap 
-## Ferramentas: Git · GitHub · Cisco Packet Tracer</p>
+# Back-end: Java · C# / ASP.NET MVC 
+# Bancos de dados: MySQL · PostgreSQL · SQL Server 
+# Front-end: HTML · CSS · JavaScript · Bootstrap 
+# Ferramentas: Git · GitHub · Cisco Packet Tracer</p>
 <div>
   <a href="https://github.com/Miguelpds10">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miguelpds10&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
